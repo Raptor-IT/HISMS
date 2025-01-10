@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Core/Maps/MainLevel.umap",
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Core/Blueprints/BP_TopDownCharacter.uasset",
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Core/Blueprints/BP_BP_TopDownCharacter_GameMode.uasset",
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Core/Blueprints/Enums/E_TerrainTileType.uasset",
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Meterials/M_BaseMeterial.uasset",
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Meterials/MI_TileMeterial.uasset",
+				"A:/game projects/Unreal/HISMS/HISMS/Content/Core/Blueprints/BP_TileManager.uasset"
+			]
+		}
+	]
+}
